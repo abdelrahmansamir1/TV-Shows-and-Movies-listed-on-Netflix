@@ -4,15 +4,15 @@ This dataset consists of tv shows and movies available on Netflix as of 2019. Th
 ## About the dataset
 netflix_titles.csv: The csv file contains information about the various movies and the data related to them:
 
--Show ID - unique ID of that particular show
--Type - type of the video - movie, TV Series etc.
--Title - title of the video
--Director - director name
--Cast - cast members
--Country - country where it was released
--Data Added - date when it became live on NETFLIX
--Release Year - year of release
--Rating - user rating
--Duration - duration of the movie, TV Series etc.
--Listed in - Genre information
--Description - concise plot of the series
+- Show ID - unique ID of that particular show
+- Type - type of the video - movie, TV Series etc.
+- Title - title of the video
+- Director - director name
+- Cast - cast members
+- Country - country where it was released
+- Data Added - date when it became live on NETFLIX
+- Release Year - year of release
+- Rating - user rating
+- Duration - duration of the movie, TV Series etc.
+- Listed in - Genre information
+- Description - concise plot of the series
